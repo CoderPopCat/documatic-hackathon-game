@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "@yimura/scraper": "^1.2.3",
+    "canvas": "^2.8.0",
+    "canvas-constructor": "^4.1.0",
+    "discord-image-generation": "^1.4.13",
+    "discord.js": "^13.3.1",
+    "dotenv": "^16.0.1",
+    "express": "^4.17.1",
+    "geolib": "^3.3.3",
+    "glob": "^7.2.0",
+    "imdb-api": "^4.4.1",
+    "moment": "^2.29.1",
+    "mongoose": "^6.0.12",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.2.3",
+    "path": "^0.12.7",
+    "popcat-wrapper": "^1.4.9",
+    "util": "^0.12.4"
+  },
+  "name": "igp-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "node": "^16.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderPopCat/igp-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoderPopCat/igp-bot/issues"
+  },
+  "homepage": "https://github.com/CoderPopCat/igp-bot#readme",
+  "description": ""
+}
